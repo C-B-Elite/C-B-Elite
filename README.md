@@ -7,7 +7,7 @@
 
 ![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-B-Elite&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elite&layout=compact)](https://github.com/C-B-Elite/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-B-Elite&layout=compact)](https://github.com/C-B-Elite/github-readme-stats)
 
 
 <!--
