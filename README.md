@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Build Web3 Dapps. I'm building dapps on the ICP(InternetComputer Protocol Blockchain) at present.
 - 🌱 I’m currently learning Rust, WebAssembly, TypeScript, HTML and CSS.
 - 💬 Ask me about Internet Computer Blockchain Technology
-- 📫 How to reach me: [My Gmail](czgelite@gmail.com)
+- 📫 How to reach me: czgelite@gmail.com
 
 ![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-B-Elite&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
