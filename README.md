@@ -1,8 +1,8 @@
 ### Hi there 👋
 - I'm Elie, a full stack engineer and my current main technology stack is Rust, Java, Motoko, WebAssembly, Linux. 
-- 🔭 I’m currently working on Build Web3 Dapps. I'm building dapps on the ICP(InternetComputer Protocol Blockchain) at present.
-- 🌱 I’m currently learning Rust, WebAssembly, TypeScript, HTML and CSS.
-- 💬 Ask me about Internet Computer Blockchain Technology
+- 🔭 I’m currently working on building Web3 Dapps. 
+- 🌱 I’m currently learning Rust, WebAssembly, Server Service
+- 💬 Ask me about how to access web3 tech.
 - 📫 How to reach me: czgelite@gmail.com
 
 ![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-B-Elite&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
