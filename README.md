@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm Elie, a full stack engineer and my current main technology stack is Rust, Java, Motoko, WebAssembly, Linux. 
+- I'm Elie, a full stack engineer and my current main technology stack is Rust, Java, WebAssembly, Linux. 
 - 🔭 I’m currently working on building Web3 Dapps. 
 - 🌱 I’m currently learning Rust, WebAssembly, Server Service
 - 💬 Ask me about how to access web3 tech.
