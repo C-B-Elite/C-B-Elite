@@ -1,8 +1,6 @@
 ### Hi there 👋
-- I'm Elie, a full stack engineer and my current main technology stack is Rust, Java, WebAssembly, Linux. 
-- 🔭 I’m currently working on building Web3 Dapps. 
-- 🌱 I’m currently learning Rust, WebAssembly, Server Service
-- 💬 Ask me about how to access web3 tech.
+- I'm Essen, a Rust engineer and my current main technology stack is Rust, Linux. 
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: czgelite@gmail.com
 
 ![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-B-Elite&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)
