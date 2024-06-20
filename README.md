@@ -5,7 +5,7 @@
 - I have a strong passion for Rust and continually use it to build applications and protocols such as Infura. Currently, I'm focusing on the ZK and DA directions and developing applications and protocols within these two domains.
 - 📫 How to reach me: czgelite@gmail.com
 
-![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-B-Elite&count_private=true&show_icons=true&theme=dracula&hide=contribs,prs)
+![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-B-Elite&count_private=true&show_icons=true&theme=highcontrast&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-B-Elite&layout=compact)](https://github.com/C-B-Elite/github-readme-stats)
 
